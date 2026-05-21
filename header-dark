@@ -1,0 +1,12 @@
+<svg width="100%" viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Jared Giangrasso GitHub profile header</title>
+  <desc>Header banner with dot grid pattern and greeting</desc>
+  <defs>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="1.5" fill="#666" opacity="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="680" height="120" rx="6" fill="url(#dots)"/>
+  <text x="40" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" font-weight="600" fill="#f0f0f0">Hey, I'm Jared 👋</text>
+  <text x="40" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#999">Tech Lead &amp; Full-Stack Engineer · New York</text>
+</svg>
