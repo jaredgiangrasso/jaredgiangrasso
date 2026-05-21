@@ -1,4 +1,4 @@
-# Hey, I'm Jared 👋
+![header](header.svg)
 
 Tech Lead and full-stack engineer in New York. Currently at Constellation building AI-powered ad tech. Previously at AWS on SageMaker Canvas and Data Wrangler.
 
